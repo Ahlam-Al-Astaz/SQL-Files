@@ -1,0 +1,1 @@
+SELECT POW(3,2);
